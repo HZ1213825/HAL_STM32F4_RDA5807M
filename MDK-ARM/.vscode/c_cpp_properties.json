@@ -3,20 +3,20 @@
         {
             "name": "F4",
             "includePath": [
-                "c:\\Users\\HZ12138\\Desktop\\1\\RDA5807M\\F4\\Core\\Inc",
-                "c:\\Users\\HZ12138\\Desktop\\1\\RDA5807M\\F4\\Drivers\\STM32F4xx_HAL_Driver\\Inc",
-                "c:\\Users\\HZ12138\\Desktop\\1\\RDA5807M\\F4\\Drivers\\STM32F4xx_HAL_Driver\\Inc\\Legacy",
-                "c:\\Users\\HZ12138\\Desktop\\1\\RDA5807M\\F4\\Drivers\\CMSIS\\Device\\ST\\STM32F4xx\\Include",
-                "c:\\Users\\HZ12138\\Desktop\\1\\RDA5807M\\F4\\Drivers\\CMSIS\\Include",
-                "c:\\Users\\HZ12138\\Desktop\\1\\RDA5807M\\F4\\User\\H",
-                "c:\\Users\\HZ12138\\Desktop\\1\\RDA5807M\\F4\\RDA5807M\\H",
+                "c:\\Users\\HZ12138\\Desktop\\12\\HAL_STM32F4_RDA5807M\\Core\\Inc",
+                "c:\\Users\\HZ12138\\Desktop\\12\\HAL_STM32F4_RDA5807M\\Drivers\\STM32F4xx_HAL_Driver\\Inc",
+                "c:\\Users\\HZ12138\\Desktop\\12\\HAL_STM32F4_RDA5807M\\Drivers\\STM32F4xx_HAL_Driver\\Inc\\Legacy",
+                "c:\\Users\\HZ12138\\Desktop\\12\\HAL_STM32F4_RDA5807M\\Drivers\\CMSIS\\Device\\ST\\STM32F4xx\\Include",
+                "c:\\Users\\HZ12138\\Desktop\\12\\HAL_STM32F4_RDA5807M\\Drivers\\CMSIS\\Include",
+                "c:\\Users\\HZ12138\\Desktop\\12\\HAL_STM32F4_RDA5807M\\User\\H",
+                "c:\\Users\\HZ12138\\Desktop\\12\\HAL_STM32F4_RDA5807M\\RDA5807M\\H",
                 "C:\\Keil_v5\\ARM\\ARMCC\\include",
                 "C:\\Keil_v5\\ARM\\ARMCC\\include\\rw",
-                "c:\\Users\\HZ12138\\Desktop\\1\\RDA5807M\\F4\\MDK-ARM",
-                "c:\\Users\\HZ12138\\Desktop\\1\\RDA5807M\\F4\\Core\\Src",
-                "c:\\Users\\HZ12138\\Desktop\\1\\RDA5807M\\F4\\Drivers\\STM32F4xx_HAL_Driver\\Src",
-                "c:\\Users\\HZ12138\\Desktop\\1\\RDA5807M\\F4\\User\\C",
-                "c:\\Users\\HZ12138\\Desktop\\1\\RDA5807M\\F4\\RDA5807M\\C"
+                "c:\\Users\\HZ12138\\Desktop\\12\\HAL_STM32F4_RDA5807M\\MDK-ARM",
+                "c:\\Users\\HZ12138\\Desktop\\12\\HAL_STM32F4_RDA5807M\\Core\\Src",
+                "c:\\Users\\HZ12138\\Desktop\\12\\HAL_STM32F4_RDA5807M\\Drivers\\STM32F4xx_HAL_Driver\\Src",
+                "c:\\Users\\HZ12138\\Desktop\\12\\HAL_STM32F4_RDA5807M\\User\\C",
+                "c:\\Users\\HZ12138\\Desktop\\12\\HAL_STM32F4_RDA5807M\\RDA5807M\\C"
             ],
             "defines": [
                 "USE_HAL_DRIVER",
